@@ -1,4 +1,4 @@
-
+![aplus_logo](./aplus_logo.jpeg)
 
 <div align="center">
 
