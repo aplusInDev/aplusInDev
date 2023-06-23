@@ -1,4 +1,4 @@
-<img height="100px" width="100%" alt="aplus_logo" src="aplus_logo.jpeg" />
+<img height="200px" width="75%" align="center" alt="aplus_logo" src="aplus_logo.jpeg" />
 
 <div align="center">
 
