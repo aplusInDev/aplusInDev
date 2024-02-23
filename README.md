@@ -8,7 +8,6 @@
 </div>
   
 <h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;I'm a software engineer student</h2>
-![Screenshot 2024-02-23 170121](https://github.com/aplusJsDev/aplusJsDev/assets/121973651/9b008f31-8998-4105-8752-89f7a5d894b0)
 
 ## 🚀 About Me
 <b>
