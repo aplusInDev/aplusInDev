@@ -1,5 +1,6 @@
 <div align="center">
 <img height="200px" width="75%" alt="aplus_logo" src="aplus_logo.jpeg" />
+  <img height="200px" width="75%" alt="aplus_logo" src="main-logo.jpg" />
 </div>
 
 <div align="center">
